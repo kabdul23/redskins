@@ -1,0 +1,223 @@
+html {
+  background: url("http://prod.static.redskins.clubs.nfl.com/assets/img/bg/background.jpg") no-repeat center 0;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    width: 980px;
+    margin: 0 auto;
+    margin-top: 170px;
+}
+
+h1, h2, h3, h4,  {
+    font-family: "Oswald", sans-serif;
+    
+}
+.container {
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+/*-----NAVIGATION-----*/
+
+.logo {
+    width: 100%;
+    height: auto;
+}
+
+.words {
+    margin-top: -130px;
+    float: left;
+    margin-left: -5px;
+}
+
+.pic {
+    margin-top: -150px;
+    margin-left: -40px;
+    float: left;
+}
+.topnav {
+    padding: 0;
+}
+
+.main-nav {
+    background-color: #600;
+    width: 800px;
+    height: auto;
+    margin-top: -90px;
+    margin-left: 110px;
+}
+
+li {
+    display: inline-block;
+    padding: 0;
+}
+
+.topnav a {
+    display: block;
+    color: #f2f2f2;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: #600;
+}
+
+.topnav a.active {
+    color: white;
+}
+/*-----PROMOTION8-----*/
+.promo {
+    width: 100%;
+    height: auto;
+}
+
+.ad {
+    width: 980px;
+    margin-top: -10px;
+    margin-left: -15px;
+}
+
+.promo h1 {
+  font-size: 50px;
+  color: #600;
+  font-weight: bold;
+  margin-top: 40px;
+  text-transform: uppercase;
+}
+
+.promo p {
+    padding-bottom: 20px;
+}
+/*-----TABLE-----*/
+.table-table-hover td:hover {
+   background-color: #600;
+}
+
+#join .btn {
+  background-color: #600;
+  color: #fff;
+  padding: 8px 30px;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Oswald";
+  font-size: 18px;
+  margin-top: 20px;
+ }
+
+#join h3 {
+  text-transform: uppercase;
+  color: #600;
+}
+
+ #join a.btn:hover {
+    background: #FFD54F;
+    color: #600;
+ }
+
+#schedule img {
+  width: 980px;
+  margin-left: -15px;
+  margin-top: 30px;
+  height: auto;
+  padding-bottom: 30px;
+}
+
+#learn .btn {
+ background-color: #600;
+ color: #fff;
+ padding: 8px 30px;
+ text-decoration: none;
+ display: inline-block;
+ font-family: "Oswald";
+ font-size: 18px; 
+}
+
+ #learn a.btn:hover {
+    background: #FFD54F;
+    color: #600;
+ }
+.redskins-logo {
+    width: 980px;
+    background-color:#600;
+    margin-top: 50px;
+    margin-left: -15px;
+}
+
+.skins-tix {
+ width: 550px;
+ height: auto;
+}
+#contact {
+    margin-top: 50px;
+}
+#contact .btn {
+  background-color: #600;
+  color: #fff;
+  padding: 10px;
+}
+
+#contact a {
+    margin: 20px;
+}
+
+#contact a.btn:hover {
+    background: #FFD54F;
+    color: #600;
+ }
+
+/*-----FOOTER-----*/
+.footer {
+    margin-top: 60px;
+    margin-left: -15px;
+}
+.footer .container {
+    width: 980px;
+    height: 400px;
+    background: #600;
+    margin: 0 auto;
+}
+
+.footer img {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding: 40px 0 0 0;
+    
+}
+
+.footer .links {
+  width: 980px;
+  height: 204px;
+  margin: 0 auto;
+  padding: 0;
+}
+.footer .col {
+  float: left;
+  padding: 10px;
+  margin: 0 auto; 
+}
+ul {
+  list-style: none;
+}
+.footer li {
+  display: list-item;
+  text-align:left;
+  font-family: Arial;
+  font-size: 14px;
+  line-height: 19px;
+  padding: 0;
+  margin: 0;
+  color: #fff;
+}
+.footer h4 {
+  display: block;
+  color: #fff;
+  padding: 0px, 0px, 0px, 0px;
+ 
+}
